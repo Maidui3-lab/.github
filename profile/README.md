@@ -12,9 +12,9 @@ JP . 組み込みソフトウェア、FPGA、Linux、PCBなどの学習・開発
 ## Featured  Projects
 | Repository | Description | Contains | State |
 |-----------|------------|------------|------------|
-| esc-control-hub-edge-AI | PID control with Embedded AI-based feedforward control. | Code,PCB | In Progress |
-| maidui3-bridge-board    |Gateway board bridging PCs, FDCAN networks, Ethernet, and Wi‑Fi 6E. | Code,PCB | In Progress |
-| robo-con-Wi-Fi | Low-latency Wi‑Fi 6E controller for robotics. | Code,PCB | In Progress |
+| [esc-control-hub-edge-AI](https://github.com/Maidui3-lab/esc-control-hub-edge-AI) | PID control with Embedded AI-based feedforward control. | Code,PCB | In Progress |
+| [maidui3-bridge-board](https://github.com/Maidui3-lab/maidui3-bridge-board)    |Gateway board bridging PCs, FDCAN networks, Ethernet, and Wi‑Fi 6E. | Code,PCB | In Progress |
+| [robo-con-Wi-Fi](https://github.com/Maidui3-lab/robo-con-Wi-Fi) | Low-latency Wi‑Fi 6E controller for robotics. | Code,PCB | In Progress |
 
 
 ## Related Organizations
